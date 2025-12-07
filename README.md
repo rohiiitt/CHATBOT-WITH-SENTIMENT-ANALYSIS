@@ -1,4 +1,9 @@
 # Sentiment Analysis Chatbot
+<img width="1047" height="828" alt="Screenshot 2025-12-07 161358" src="https://github.com/user-attachments/assets/0944197b-56f4-49c3-ac92-65465bf2bd2a" />
+
+<img width="850" height="784" alt="Screenshot 2025-12-07 161341" src="https://github.com/user-attachments/assets/efbcf847-bd58-4cb3-a451-09bd44538818" />
+
+
 
 A production-ready chatbot with real-time sentiment analysis capabilities, featuring both conversation-level and statement-level sentiment evaluation.
 
